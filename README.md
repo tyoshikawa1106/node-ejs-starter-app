@@ -3,6 +3,7 @@
 
 ## Setup
 ```
+$ cd desktop
 $ git clone git@github.com:tyoshikawa1106/node-ejs-starter-app.git
 $ cd node-ejs-starter-app
 $ npm install
