@@ -1,0 +1,21 @@
+{
+  "name": "public",
+  "authors": [
+    "Taiki Yoshikawa"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "salesforce-lightning-design-system": "~1.0.0"
+  }
+}

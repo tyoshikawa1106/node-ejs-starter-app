@@ -1,0 +1,46 @@
+html{
+  height: 100%;
+}
+
+body {
+  padding-top: 100px;
+  background-color: #FFF !important;
+  min-height: 100%;
+  min-width: 500px;
+}
+
+header {
+  line-height: 1.5;
+  position: fixed !important;  
+  position: absolute;
+  top: 0;  
+  left: 0;  
+  width: 100%;  
+  height: 100px; 
+  background-color: #48ace4;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.2);
+  text-shadow: 0 1px 1px #000;
+  z-index: 2;
+}
+
+header a {
+  text-decoration: none !important;
+  color: #FFF !important;
+}
+
+header ul li {
+    padding: 8px;
+}
+
+footer {
+  position: fixed !important;  
+  position: absolute;
+  bottom: 0;  
+  left: 50;  
+  width: 100%;  
+}
+
+table.transmissionTable {
+    background-color: rgba(0,0,255,0);
+    font-weight: bold;
+}
